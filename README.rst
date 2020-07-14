@@ -1,6 +1,8 @@
 ITKIOTransformDCMTK
 ===================
 
+.. image:: https://github.com/InsightSoftwareConsortium/ITKIOTransformDCMTK/workflows/Build,%20test,%20package/badge.svg
+
 .. |CircleCI| image:: https://circleci.com/gh/InsightSoftwareConsortium/ITKIOTransformDCMTK.svg?style=shield
     :target: https://circleci.com/gh/InsightSoftwareConsortium/ITKIOTransformDCMTK
 
